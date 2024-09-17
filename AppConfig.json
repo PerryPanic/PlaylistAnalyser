@@ -1,0 +1,7 @@
+{
+    "app_name": "Pop Analyser",
+    "scope": "user-library-read",
+    "redirect_URI": "http://localhost:8888",
+    "client_id": "bc143ee0787e4265ab0082f8dc44f5f2",
+    "client_secret": "60a47087d93c4f3c91b53ecfe08be363"
+}
